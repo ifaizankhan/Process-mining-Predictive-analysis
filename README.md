@@ -2,8 +2,8 @@
 
 The inputs needed for this part are:
 
-  - The original event log
-  - The process model 
+  - The BPIC2017 event log: https://data.4tu.nl/articles/BPI_Challenge_2017/12696884
+  - The process model
   
 During the execution of process models, it can become interesting to predict future behavior of the currently running process instance. For example: „How long will it take until this instance finishes?“, „Can any delays be expected?“. In this case study, we will focus on task prediction, i.e., which task will probably happen next?
 
